@@ -18,4 +18,4 @@ My secondary focus is learning about Flutter. I recently start my journey in thi
 
 ### 📊 GitHub Stats
 
-[![ViniGouveia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniGouveia&show_icons=true&bg_color=00000000)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniGouveia&layout=compact)]
+![ViniGouveia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniGouveia&show_icons=true&bg_color=00000000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniGouveia&layout=compact)
