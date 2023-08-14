@@ -18,12 +18,12 @@ My secondary focus is learning about Flutter. I recently start my journey in thi
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/ViniGouveia/ViniGouveia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniGouveia&repo=ViniGouveia" />
 </a>
 
 [![ViniGouveia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniGouveia&show_icons=true&bg_color=00000000)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniGouveia&layout=compact)]
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ViniGouveia/ViniGouveia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniGouveia&repo=ViniGouveia" />
 </a>
